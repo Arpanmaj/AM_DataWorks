@@ -1,4 +1,3 @@
-# AM_DataWorks
 # Demo Projects for Data Entry & Formatting
 
 This repository showcases a collection of **demo projects** designed to demonstrate my skills in **data entry**, **data cleaning**, and **data formatting**. Each project reflects realistic client requests and highlights my ability to organize and present data accurately and in a user-friendly manner.
